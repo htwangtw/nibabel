@@ -1,0 +1,25 @@
+.. AUTO-GENERATED FILE -- DO NOT EDIT!
+
+:mod:`checkwarns`
+=================
+.. automodule:: nibabel.checkwarns
+
+.. currentmodule:: nibabel.checkwarns
+.. autosummary::
+
+   ErrorWarnings
+   IgnoreWarnings
+
+
+.. currentmodule:: nibabel.checkwarns
+
+ErrorWarnings
+~~~~~~~~~~~~~
+
+.. autofunction:: ErrorWarnings
+
+IgnoreWarnings
+~~~~~~~~~~~~~~
+
+.. autofunction:: IgnoreWarnings
+

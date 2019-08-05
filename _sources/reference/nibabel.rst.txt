@@ -1,0 +1,31 @@
+.. AUTO-GENERATED FILE -- DO NOT EDIT!
+
+:mod:`nibabel`
+==============
+.. automodule:: nibabel
+
+.. currentmodule:: nibabel
+.. autosummary::
+
+   get_info
+   setup_package
+   teardown_package
+
+
+.. currentmodule:: nibabel
+
+get_info
+~~~~~~~~
+
+.. autofunction:: get_info
+
+setup_package
+~~~~~~~~~~~~~
+
+.. autofunction:: setup_package
+
+teardown_package
+~~~~~~~~~~~~~~~~
+
+.. autofunction:: teardown_package
+
